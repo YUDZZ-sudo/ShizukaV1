@@ -1,5 +1,5 @@
-//Recode by @Tan 
-//Thanks for Dev @Fernazer
+//Recode by @Lucu 
+//Thanks for Dev @Port9889
 const chalk = require("chalk")
 const fs = require("fs")
 
@@ -12,42 +12,42 @@ global.wlcm = []
 global.wlcmm = []
 global.versi = '1.1.'
 global.keyopenai = "XlmmVpWzu6r2jRu" //masukkan apikey kamu 
-global.btz = 'masukkan apikey mu di sini'
+global.btz = 'XlmmVpWzu6r2jRu'
 //===============SETTING MENU==================\\
-global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
+global.thumbnail = "tiktokoa.com_wZD6K0WsYhvBhldjudeJ.Jpg”,
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@codenametan'
+global.yt = ''
+global.ttowner = '@codenamelucy'
 global.ownername = '@Tan'
-global.owner = ['6282339835060'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '6282339835060'
-global.socialm = 'GitHub: Tanmyname'
+global.owner = ['6288809678837'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6288809678837'
+global.socialm = ''
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
-global.nodana = '6282339835060' // KOSONG KAN JIKA TIDAK ADA
-global.nogopay = '6282339835060 ' // KOSONG KAN JIKA TIDAK ADA 
+global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
+global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting Payment Name===========================\\
-global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
-global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
+global.andana = '' // KOSONG KAN JIKA TIDAK ADA
+global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
-global.ownernumber = '6282339835060'
-global.botnumber = '6285198468895'
-global.ownername = '@Tan'
-global.ownerNumber = ["6282339835060@s.whatsapp.net"]
+global.botname = "ShizukaV1"
+global.ownernumber = '6288809678837'
+global.botnumber = '6283862433797'
+global.ownername = '@Lucy'
+global.ownerNumber = ["6288809678837@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
-global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
-global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
+global.wagc = "https://chat.whatsapp.com/KDnGPW5y2XEDnSO0OGiwsS"
+global.saluran = ""
 global.themeemoji = '🪀'
-global.wm = "Tv2 | 6285198468895"
+global.wm = "ShizukaV1 | 6288809678837"
 global.botscript = 'Ngk ada wle😂' //script link
 global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
-global.creator = "6285198468895@s.whatsapp.net"
+global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6288809678837"
+global.creator = "6288809678837@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
